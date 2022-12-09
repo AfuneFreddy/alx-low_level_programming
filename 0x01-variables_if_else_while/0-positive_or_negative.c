@@ -1,9 +1,6 @@
 #include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
-
 /**
- * main - Determines if a number is positive, negative or zero.
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
@@ -25,5 +22,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	return (0)
+	return (0);
 }
