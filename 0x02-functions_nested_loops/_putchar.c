@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "alx.h"
+#include <unistd.h>
 
 /**
  * _putchar - writes the chacter c to stdout
