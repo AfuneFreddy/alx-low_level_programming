@@ -7,6 +7,7 @@
  */
 
 int main(void)
+/* prints _putchar*/
 {
 	_putchar('_');
 	_putchar('p');
