@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Write a program that prints _putchar
- *
+ * main - entry point
+ * is written by fredrick
  * Retrun: Always 0 (succes)
  */
 
