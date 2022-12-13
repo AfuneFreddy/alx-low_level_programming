@@ -2,12 +2,11 @@
 
 /**
  * main - entry point
- *
+ * is written by fredrick
  * Retrun: Always 0 (succes)
  */
 
 int main(void)
-/* prints _putchar*/
 {
 	_putchar('_');
 	_putchar('p');
