@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * main - entry point
- * is written by fredrick
+ * main - prints _putchar, followed by a new line.
+ *
  * Retrun: Always 0 (succes)
  */
-
 int main(void)
 {
 	_putchar('_');
@@ -17,7 +16,7 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
-
 }
+
+
