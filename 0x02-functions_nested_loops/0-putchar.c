@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
- * is written by fredrick
+ * main - prints _putchar, followed by a new line.
+ * 
  * Retrun: Always 0 (succes)
  */
 
