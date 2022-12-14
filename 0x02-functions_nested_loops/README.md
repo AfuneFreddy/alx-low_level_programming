@@ -1,1 +1,1 @@
-function that adds two integers and returns the resul
+function that prints all natural numbers from n to 98
