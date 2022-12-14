@@ -1,1 +1,1 @@
- function that prints the 9 times table
+function that adds two integers and returns the resul
