@@ -1,17 +1,12 @@
 #include "main.h"
 
 /**
-<<<<<<< HEAD
- * print_alphabet_x10 - prints alphabet 10 times.
-=======
- * main - check the code.
->>>>>>> b35ec92835691dc46611bf1889b7bb00b5b14a6c
+ * print_alphabet_x10 - Prints the alphabet 10 times.
  *
- * Return: Always 0.
+ * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet_x10(void)
 {
-<<<<<<< HEAD
 	int a, b;
 
 	for (a = 0; a <= 9; a++)
@@ -20,10 +15,6 @@ int main(void)
 		{
 			_putchar(b);
 		}
-		_putchar('\n');
+	_putchar('\n');
 	}
-=======
-    print_alphabet_x10();
-    return (0);
->>>>>>> b35ec92835691dc46611bf1889b7bb00b5b14a6c
 }
