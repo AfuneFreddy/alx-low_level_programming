@@ -1,1 +1,1 @@
-function that computes the absolute value of an intege
+function that prints the last digit of a number
