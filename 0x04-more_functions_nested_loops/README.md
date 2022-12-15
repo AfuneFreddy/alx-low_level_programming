@@ -1,1 +1,1 @@
- function that prints a triangle
+function that prints an integer.
