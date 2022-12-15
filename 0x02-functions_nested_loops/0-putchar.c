@@ -1,13 +1,10 @@
 #include "main.h"
 
 /**
- * main - prints _putchar, followed by a new line.
-<<<<<<< HEAD
- *
-=======
+ * main - prints _putchar
+ * is written by fredrick
  * 
->>>>>>> 948ff870b40da40f10574170ab37920fe2708f1d
- * Retrun: Always 0 (succes)
+ * Retrun: 0.
  */
 int main(void)
 {
