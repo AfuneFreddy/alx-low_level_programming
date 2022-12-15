@@ -1,1 +1,1 @@
-function that prints a square
+ program that prints the numbers from 1 to 100
