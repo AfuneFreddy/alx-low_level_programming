@@ -1,1 +1,1 @@
-function that copies the string pointed to by src, 
+function that convert a string to an integer
