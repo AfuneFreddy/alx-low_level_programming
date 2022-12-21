@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
  * main - generates keygen
@@ -9,17 +10,17 @@
  */
 int main(void)
 {
-	int i = 0, c = 0;
+	int r = 0, c = 0;
 	time_t t;
 
 	srand((unsigned int) time(&t));
 	while (c < 2772)
 	{
-		i = rand() % 128;
-		if ((c + i) > 2772)
+		r = rand() % 128;
+		if ((c + r) > 2772)
 			break;
-		c = c + i;
-		printf("%c", i);
+		c = c + r;
+		printf("%c", r);
 	}
 	printf("%c\n", (2772 - c));
 	return (0);
