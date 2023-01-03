@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - magic
+ *
+ * Return: Alway 0.
+ */
 int main(void)
 {
 	int n;
